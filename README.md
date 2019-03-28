@@ -3,14 +3,16 @@
 Maker Media GmbH
 *** 
 
-# 2019_01_umweltsensoren
+# 2019.02_druckluft-auf-vorrat
 ### Druckluft auf Vorrat
 
-Spätestens seit dem Dieselskandal interessieren sich viele für die Messung von
-Umweltdaten. Damit Sie mit Ihrem Mikrocontroller der Umwelt selbst auf den
-Zahn fühlen können, stellen wir Ihnen 19 Sensoren vor und zeigen, wie Sie diese
-einfach in eigene Arduino-Projekte integrieren.
-
+Druckluft ist in der Werkstatt und beim Basteln immer
+nützlich, etwa für Airbush, Sandstrahlen oder einfach, um
+Staub oder Feuchtigkeit wegzupusten. Für gelegentliche
+Arbeiten lohnt sich ein Kompressor nicht und Druckluft aus
+der Dose ist schnell leer und viel zu teuer. Mit dieser
+Anleitung können Sie Ihre Luft einfach an der Tankstelle
+holen und mit einem Behälter nach Hause bringen.
 von Florian Schäffer
 
-Den vollständigen Artikel mit der Bauanleitung gibt es in der Make-Ausgabe 1/19
+Den vollständigen Artikel gibt es in der Make-Ausgabe 2/19
