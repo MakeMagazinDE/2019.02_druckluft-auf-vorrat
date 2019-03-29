@@ -3,7 +3,6 @@
 Maker Media GmbH
 *** 
 
-# 2019.02_druckluft-auf-vorrat
 ### Druckluft auf Vorrat
 
 Druckluft ist in der Werkstatt und beim Basteln immer
